@@ -1,20 +1,20 @@
 PDF Toaster
 =====
 
-A simple-as-possible Ghostscript GUI for compressing pdf files, made with Applescript.
+A simple-as-possible gui for compressing pdf files using ghostscript on macOS. Made with Applescript.
 
-Best way to compress those huge pdf files on macOS! Minimal command line work is needed to setup and then compressing one or multiple pdf's is one click away.
+Compress those huge pdf files away! Minimal command line work is needed to setup and then compressing one or multiple pdf's is one click away.
 
 ## Setup:
 
 - Open Terminal.app
-- Install [homebrew](https://brew.sh). Just copy/paste this long command found on homebrew's page.
+- Install [homebrew](https://brew.sh). Just copy/paste the long command found on homebrew's homepage.
 - Install ghostscript:
-> 
+ 
 ```
 $ brew install ghostscript
 ```
-- Download PDF Toaster, run it and follow the onscreen instructions. Best way to use it, is to press Command, drag the app to the Finder toolbar and use it as a droplet.
+- [Download PDF Toaster](https://github.com/zdol/pdf-toaster/archive/master.zip), run it and follow the onscreen instructions. Best way to use it, is to press `⌘Command` and drag the app to the Finder toolbar (or drag to the dock) and use it as a droplet.
 
 ## Acknowledgements:
 
