@@ -20,7 +20,7 @@ $ brew install ghostscript
 
 Original ghostscript command found on [Max Lenister's blog](https://blog.omgmog.net/post/compressing-pdf-from-your-mac-or-linux-terminal-with-ghostscript/)
 
-Original icon: [Coffeematic Icon by Greg Barnes](http://www.iconarchive.com/show/vintage-kitchen-icons-by-greg-barnes/Coffeematic-icon.html)
+Original icon: [Toaster Icon by Greg Barnes](http://www.iconarchive.com/show/vintage-kitchen-icons-by-greg-barnes/Toaster-icon.html)
 
 
 
